@@ -4,11 +4,11 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/GTA
 venue: "University of Manchester, Department of Mathematics"
-date: 2024-09 to 2026-06
+date: 2024-09-01
 location: "Manchester, UK"
 ---
 
-I have taught tutorials or been a teaching assistant within tutorials for the following courses:
+Between the date listed and now, I have taught tutorials or been a teaching assistant within tutorials for the following courses:
  
 - MATH19661 : Mathematics for Engineering 1M1
 - MATH19662 : Mathematics for Engineering 1M2
