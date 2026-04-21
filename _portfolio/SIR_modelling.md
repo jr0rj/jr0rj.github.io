@@ -1,7 +1,7 @@
 ---
 title: "MCMC for SIR Model Inverse Problem"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Utilising the Random walk Metropolis-Hastings Algorithm to find the posterior distribution on the parameters of an SIR model 1<br/><img src='/images/SIR_spaghetti_plot.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Link to Github page pending.  
