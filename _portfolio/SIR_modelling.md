@@ -6,4 +6,4 @@ collection: portfolio
 
 This github repo utlises Markov Chain Monte Carlo to fit parameters for an SIR model to some real epedimiological data. The code for the random walk Metropolis-Hastings algorithm as well as plots to show its efficacy are demonstrated in jupyter notebooks.
 
-[Link](https://www.genome.gov/)
+[Link](https://github.com/jr0rj/Epi-Modelling-MCMC)
