@@ -4,4 +4,6 @@ excerpt: "Utilising the Random walk Metropolis-Hastings Algorithm to find the po
 collection: portfolio
 ---
 
-Link to Github page pending.  
+This github repo utlises Markov Chain Monte Carlo to fit parameters for an SIR model to some real epedimiological data. The code for the random walk Metropolis-Hastings algorithm as well as plots to show its efficacy are demonstrated in jupyter notebooks.
+
+[Link](https://www.genome.gov/)
